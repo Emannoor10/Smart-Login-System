@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Titillium Web", sans-serif;
+
+}
+body{
+    background-color: #24353F;
+}
+nav{
+    background-color: #24353F;
+    box-shadow:-5px 2px 54px -9px rgba(0, 0, 0, 1);
+    width: 100%;
+   
+}
+.container{
+    margin-top:15%;
+}
+.username{
+    color: #17A2B8 !important;
+}
